@@ -17,9 +17,9 @@
 
 𝙑𝙞𝙨𝙪𝙖𝙡 𝙤𝙥𝙩𝙞𝙤𝙣𝙨
 
-      - FOV Changer
-      - Team check
-      - Names
+- FOV Changer    
+- Team check
+- Names
 - Box
 - Skeleton
 - Snaplines
