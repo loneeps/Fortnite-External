@@ -3,7 +3,7 @@
  
 𝘼𝙞𝙢𝙗𝙤𝙩 𝙤𝙥𝙩𝙞𝙤𝙣𝙨
 
-- Smooth chnager
+- Smooth changer
 - Body select (Head, Torso, Legs, Hands)
 - Crosshair Changer
 - Distance
