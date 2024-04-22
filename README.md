@@ -24,4 +24,4 @@
 - Skeleton
 - Snaplines
 
-<img src="https://www.youtube.com/watch?v=Ia_0PigjPG0"/>
+<img src="https://cdn.discordapp.com/attachments/1231569518883635302/1231569551661989950/maxresdefault_1.jpg?ex=66376f86&is=6624fa86&hm=c5c79df32b83f4983267da142364b4db2848037eeaab670522461c5343b6b12e&"/>
