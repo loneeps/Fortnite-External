@@ -1,21 +1,21 @@
  🏈 Welcome to the best fortnite external, fetnanyel.
  ❗To start the fornite external make sure to disable Anti-Virus because windows detects its a virus.
  
-𝘼𝙞𝙢𝙗𝙤𝙩 𝙤𝙥𝙩𝙞𝙤𝙣𝙨
+# Aimbot options
 
 - Smooth changer
 - Body select (Head, Torso, Legs, Hands)
 - Crosshair Changer
 - Distance
 
-𝙎𝙠𝙞𝙣 𝘾𝙝𝙖𝙣𝙜𝙚𝙧
+# Skin changing
 
 - Renegade Raider
 - Blue Striker
 - Dark Vertex
 - Double Helix
 
-𝙑𝙞𝙨𝙪𝙖𝙡 𝙤𝙥𝙩𝙞𝙤𝙣𝙨
+# Visuals
 
 - FOV Changer    
 - Team check
